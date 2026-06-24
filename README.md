@@ -54,6 +54,3 @@ Future improvements may include adding more biomedical sensors such as SpO₂ an
 - Md. Rahidul Islam
 - Rahat Ahmed
 
-## License
-
-This project is developed for academic and research purposes.
